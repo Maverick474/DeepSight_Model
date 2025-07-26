@@ -30,7 +30,7 @@ The user can preprocess the dataset, train a pytorch model of your own, predict 
 
 | DFDC   | Celeb-DF | FF++  |
 |--------|----------|-------|
-| 89.4 % | 88 %     | 89.1 % |
+| 89.4 % |  89.3 %  | 89.1 % |
 
 
 
